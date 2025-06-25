@@ -1,4 +1,4 @@
-# RainyAlley
+# Rainy Alley
 
 [![Watch the demo](https://img.youtube.com/vi/YYi1-1x2cV8/maxresdefault.jpg)](https://youtu.be/YYi1-1x2cV8)
 
