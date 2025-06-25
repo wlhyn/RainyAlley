@@ -1,0 +1,45 @@
+# Ignore binary and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore build and compiled files
+Build/
+
+# Ignore project-specific files
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.user
+*.userosscache
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Ignore macOS and Linux junk
+.DS_Store
+*.swp
+*.bak
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore crash reports
+CrashReportClient/
+
+# Ignore compiled shaders 
+DerivedDataCache/
+*.ushaderprecache
+
+# Ignore config auto-backups 
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
